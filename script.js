@@ -44,7 +44,7 @@ const projects = [
 const contactData = {
   email: 'cdenton1s@semo.edu',
   github: 'https://github.com/camerondenton06-gif',
-  website: '',
+  website: 'https://camerondenton06-gif.github.io/IS245-Portfolio/',
   linkedin: 'https://www.linkedin.com/in/cameron-denton-7174a0345/'
 };
 
